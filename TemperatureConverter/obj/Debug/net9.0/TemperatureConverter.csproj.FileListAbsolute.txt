@@ -1,0 +1,15 @@
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.AssemblyInfo.cs
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.sourcelink.json
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.exe
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.deps.json
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.runtimeconfig.json
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.dll
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.pdb
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.dll
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\refint\TemperatureConverter.dll
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.pdb
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.genruntimeconfig.cache
+C:\Users\benca\dev\csharp-testing\TemperatureConverter\obj\Debug\net9.0\ref\TemperatureConverter.dll

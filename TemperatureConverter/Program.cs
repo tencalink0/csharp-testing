@@ -10,7 +10,7 @@ namespace HelloWorld
             return (number * 9/5) + 32;
         }
 
-        static double toCelsius(double number) 
+        static double ToCelsius(double number) 
         {
             return (number - 32) * 5/9;
         }
@@ -18,10 +18,18 @@ namespace HelloWorld
         static void Main(string[] args) 
         {
             Console.WriteLine("Enter a temperature in degrees");
-            double userInput = double.parse(Console.ReadLine());
+            string input = Console.ReadLine();
 
-            Console.WriteLine("Celcius - Farenheit" + ToFarenheit(userInput));
-            Console.WriteLine("Farenheit - Celsius" + ToFarenheit(userInput));
+            double number;
+            if (double.TryParse(input, out number)) 
+            {
+                Console.WriteLine("Celcius - Farenheit " + ToFarenheit(number));
+                Console.WriteLine("Farenheit - Celsius " + ToCelsius(number));
+            } 
+            else 
+            {
+                Console.WriteLine("Please enter a valid number.");
+            }
         }
     }
 }
