@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace HelloWorld 
+namespace TemperatureConverter 
 {
     class Program 
     {
@@ -18,7 +18,7 @@ namespace HelloWorld
         static void Main(string[] args) 
         {
             Console.WriteLine("Enter a temperature in degrees");
-            string input = Console.ReadLine();
+            string input = Console.ReadLine() ?? "";
 
             double number;
             if (double.TryParse(input, out number)) 
